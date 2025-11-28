@@ -65,8 +65,7 @@ Note: $GOOGLE_CLOUD_PROJECT is an environment variable. You can replace it with 
 gsutil mb -l US gs://$YOUR_BUCKET_NAME
 ```
 
-Note: You must replace $YOUR_BUCKET_NAME with a unique name, e.g., my-unique-bucket-name-123.
-
+Note: You must replace $YOUR_BUCKET_NAME with a unique name.
 4. Create the Python Files and Deploy the Function
 
 ```bash
